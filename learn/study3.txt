@@ -1,0 +1,92 @@
+pgm:
+
+		<!DOCTYPE html>
+		<html lang="en">
+		<head>
+		    <meta charset="UTF-8">
+		    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		    <title>contact details</title>
+		    <a href="top"></a>
+		</head>
+		<body>
+		    <h1>murugan kadai</h1>
+		    <a href="///home/manikam/Music/html/index.html">home</a>
+		    <a href="///home/manikam/Music/html/images/articles.html">articles</a>
+		    <a href="">about us</a>
+		    <a href="">contact us</a>
+		    <br>
+		    <br>
+		    <br>
+		    <form action="">
+			<label for ="mmm">Name</label>
+			<input type="text">
+			<br>
+			<br>
+			<label for ="nnn">Mail id</label>
+			<input type="email" name="" id="">
+			<br>
+			<br>
+			<label for ="eee">nationality</label>
+			<input type="radio" name="nationality" id="">indian
+			<input type="radio" name="nationality" id ="">american
+			<br>
+			<br>
+			<label for="gen">gender</label>
+			<input type="radio" name="gender" id="">male
+			<input type="radio" name="gender" id="">female
+			<input type="radio" name="gender" id="">other
+			<br>
+			<br>
+			<label for ="qqq">password</label>
+			<input type="password" name=" " id="">
+			<br>
+			<br>
+			<input type="submit" value="submit">
+			<br>
+			<br>
+			<textarea name="" id="" cols="30" rows="10">leave your comments here</textarea>
+
+
+		    </form>
+		    <br>
+		    <br>
+		    <br>
+		    <a href="#top">Back to top</a>
+		    <p>copyright&copy;2017 murugan kadai<sup>TM</sup></p>
+		 
+		</body>
+		</html>
+		
+pgm:
+
+		<form action="">
+		<label for="a">Name</label>
+		<input type="text">
+		<br>
+		<br>
+		<label for="b">email id</label>
+		<input type="email" name="" id="">
+		<br>
+		<br>
+		<label for="c">password</label>
+		<input type="password" name="" id="">
+		<br>
+		<br>
+		<label for="d">gender</label>
+		<input type="radio" name="gender" id="">male
+		<input type="radio" name="gender" id="">female
+		<input type="radio" name="gender" id="">others
+		<br>
+		<br>
+		<input type="submit" value="submit"
+		
+		
+pgm:
+
+		 <select name="branches" id="">
+			    <option value="">chennai</option>
+			    <option value="">trichy</option>
+			    <option value="">madurai</option>
+				
+		

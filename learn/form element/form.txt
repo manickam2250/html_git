@@ -1,0 +1,25 @@
+pgm:
+
+	   <fieldset>
+		<legend>Registration form</legend>
+		<form>
+		    <label>name</label>
+		    <input type="text">
+		    <br>
+		    <br>
+		    <label>password</label>
+		    <input type="password">
+		    <label>select course</label>
+		    <select>
+		        <option value="1">c</option>
+		        <option value="2">c++</option>
+		        <option value="3">java</option>
+
+
+		    </select>
+		</form>
+	    
+	    </fieldset>
+	    
+
+	    

@@ -1,0 +1,62 @@
+pgm:
+
+		!DOCTYPE html>
+		<html>
+		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>my website</title>
+			<h1>news feed</h1>
+			<p>this is my paragraph</p>s
+		</head>
+		<body>
+
+		</body>
+		</html>
+		
+pgm:
+
+		<!DOCTYPE html>
+		<html>
+		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>my website</title>
+			<h1>news feed</h1>
+			<br>
+			<hr>
+			<p>this is my paragraph</p>s
+		</head>
+		<body>
+
+		</body>
+		</html>
+		
+output:
+
+news feed
+
+this is my paragraph
+
+
+pgm:
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>my website</title>
+	<h1>news feed</h1>
+	<br>
+	<hr>
+	<p>this is my github id<a href="https://github.com/manickaperumal/realpython">click</a></p>
+	<p>this is my paragraph</p>s
+</head>
+<body>
+
+</body>
+</html>
+
+
+

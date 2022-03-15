@@ -1,0 +1,10 @@
+pgm:
+
+
+	<a href="///home/manikam/Music/html/marquee.html" target="_blank">jpg program</a>
+	
+learn:
+
+	target=_blank  web next page la new ah open aagum
+	
+	href-->hyperlink reference

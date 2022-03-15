@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Contact form</h1>
+    <form>
+        <p> <label for="name">name</label><br>
+        <input type="text" name="your_name" id="name">
+        <br><br>
+        </p>
+        <p>
+            <label for="email">Email</label><br><br>
+            <input type="text" name="email_id" id="email">
+        </p><br><br>
+        <p>
+            <label for="subject">subject</label> <br><br>
+            <input type="text" name="subject" id="subject">
+        <p>
+            <label>Is this a</label> <br>
+            <input type="radio" name="requests_type" value="sales" id="sales"><label for="sales">sales request</label>
+            <input type="radio" name="requests_type" value="support" id="service"><label for="service">service</label>
+
+        </p>
+
+        </p>
+        <br><br>
+        <p><label for="message">Message</label></p>
+        <textarea  cols="25" rows="4"placeholder="Enter your comments" name="message" id="message"></textarea>
+
+        <p>
+            <input type="submit" value="send message" name="contact_form">
+        </p>
+
+        <p>Practice<br><br>
+        i want to learn
+        <input type="radio" name="subject" value="html" checked id="html"><label for="html">HTML</label>
+        <input type="radio" value="css" name="subject" id="css"><label for="css">CSS</label>
+        <input type="radio" value="js" name="subject" id="js"><label for="js">JS</label>
+        </p>
+
+        <p>
+            My hobbies are <br><br>
+            <input type="checkbox"  name="hobbies[]"value="cricket">cricket
+            <input type="checkbox" name="hobbies[]" value="reading">reading
+            <input type="checkbox" name="hobbies[]" value="football">football
+        </p>
+    </form>
+</body>
+</html>

@@ -1,0 +1,23 @@
+pgm:
+
+		<!DOCTYPE html>
+		<html lang="en">
+		<head>
+		<style>
+		.mydiv{
+		border: 5px outset red;
+		background-color: blue;
+		text-align: center;
+		}
+		</style>
+		   
+		    <title>Document</title>
+
+		</head>
+		<body>
+		   <div class="mydiv">
+		       <h2>this is my div heading</h2>
+		       <p>this is my text</p>
+		   </div> 
+		</body>
+		</html>

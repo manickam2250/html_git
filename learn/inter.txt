@@ -1,0 +1,150 @@
+pgm:
+
+		<!DOCTYPE html>
+		<html>
+		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>learning html</title>
+			<p>this is my first task <a href ="https://github.com/manickaperumal/realpython/blob/master/test.py"  target="blank "> click to see</a>
+			<ul>
+			<li>manic</li>
+			<li>perumal</li>
+			</ul>
+			<ol>
+			<li>hari</li>
+			<li>siva</li>	
+		</head>
+		<body>
+
+		</body>
+		</html>
+		
+pgm:
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>learning html</title>
+		<p>this is my first task <a href ="https://github.com/manickaperumal/realpython/blob/master/test.py"  target="blank "> click to see</a>
+		<ul>
+		<li>manic</li>
+		<li>perumal</li>
+		</ul>
+		<ol>
+		<li>hari</li>
+		<li>siva</li>	
+	</head>	
+	<body>
+
+
+	<table>
+	<head>
+	<tr>
+
+		<th>number</th>
+	</tr>
+	</head>
+	<body>
+		
+	<tr>
+		<td>manic</td>
+		<td>manic@gmail.cim</td>
+		<td>12345678</td>
+	</tr>
+	<tr>
+
+		<td>perumal</td>
+		<td>perumal@gmail.cim</td>
+		<td>12345678</td>
+	</tr>
+
+	</body>	
+	</table>
+
+		<th>name</th>
+		<th>email</th>
+	</body>
+	</html>	
+	
+	
+	
+	
+pgm:
+
+		<!DOCTYPE html>
+		<html>
+		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>learning html</title>
+			<p>this is my first task <a href ="https://github.com/manickaperumal/realpython/blob/master/test.py"  target="blank "> click to see</a>
+			<ul>
+			<li>manic</li>
+			<li>perumal</li>
+			</ul>
+			<ol>
+			<li>hari</li>
+			<li>siva</li>	
+		</head>
+		<body>
+
+
+		<table>
+		<head>
+		<tr>
+
+			<th>name</th>
+			<th>email</th>
+			<th>number</th>
+		</tr>
+		</head>
+		<body>
+			
+		<tr>
+			<td>manic</td>
+			<td>manic@gmail.cim</td>
+			<td>12345678</td>
+		</tr>
+		<tr>
+
+			<td>perumal</td>
+			<td>perumal@gmail.cim</td>
+			<td>12345678</td>
+		</tr>
+
+		<form action ="next.php" method="POST">
+			<div>
+				<label>first name</label>
+				<input type="text" name="name">
+			</div>
+
+			<div>
+				<label>phoneno</label>
+				<input type="number" name="pno">
+			</div>
+
+
+		</body>	
+		</table>
+
+		</body>
+		</html>
+	
+pgm:
+
+
+	<div>
+		<label>message</label>
+		<textarea></textarea>
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	

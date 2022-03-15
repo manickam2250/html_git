@@ -1,0 +1,109 @@
+marque:
+
+
+	behaviour has a 3 type  1)scroll(default)  2)slide  3)alternate
+
+	behaviour="slide"------->text once scoll aagitu apdiye ninrum.
+	
+	behaviour="alternate"------>both side bounce aagum
+	
+	bgcolor="orange"
+	
+pgm:
+
+		<marquee behavior="alternate" direction="right" bgcolor="orange" width="300 px"> 
+			Manicka perumal
+		    </marquee>
+		    
+		    
+pgm:
+
+		 <marquee behavior="alternate"  height="300" direction="down" bgcolor="orange" width="300 px"> 
+			Manicka perumal
+		    </marquee>
+		    
+learn:
+
+	attribute height learned.
+	
+	
+pgm:
+
+		<marquee behavior="alternate" direction="right" bgcolor="orange" width="300 px" scrollamount="10"> 
+					Manicka perumal
+				    </marquee>
+				    
+learn:
+
+	scroll amount --->text fast ah move aagum
+	
+	
+pgm:
+
+		<marquee behavior="alternate" direction="right" bgcolor="orange" width="300 px" scrollamount="10" scrolldelay="3000"> 
+					Manicka perumal
+				    </marquee>
+				    
+learn:
+
+	scrolldelay-->athana seconds slow ah sroll aagum
+	
+pgm:
+
+		<marquee behavior="alternate" direction="right" bgcolor="orange" width="300 px" scrollamount="10" loop="3"> 
+					Manicka perumal
+				    </marquee>
+				    
+output:
+
+loop---->atha thadava antha text bounce aagum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

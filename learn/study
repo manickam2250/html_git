@@ -1,0 +1,89 @@
+pgm:
+
+
+		<!DOCTYPE html>
+		<html lang="en">
+		<head>
+		    <meta charset="UTF-8">
+		    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		    <title>murugan supermarket</title>
+		</head>
+		<body>
+		    <h1>murugan kadai</h1>
+		    <a href="http://ta.wikipedia.org">home</a>
+		    <a href="http://ta.wikipedia.org">articles</a>
+		    <a href="http://ta.wikipedia.org">about us</a>
+		    <a href="http://ta.wikipedia.org">contact us</a>
+		    <br>
+		    <img src="https://cdn.pixabay.com/photo/2013/04/04/12/34/mountains-100367_960_720.jpg" alt=""> 
+		    <p>"this is my shop</p>
+		</body>
+		</html>
+
+pgm:
+
+		<!DOCTYPE html>
+		<html lang="en">
+		<head>
+		    <meta charset="UTF-8">
+		    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		    <title>Hacker</title>
+		</head>
+		<body>
+		    <h1>Hacking King</h1>
+		    <a href="http://ta.wikipedia.org">about us</a>
+		    <br>
+		    <img src="https://media.istockphoto.com/photos/yellow-background-with-black-grunge-danger-sign-picture-id1163744382?s=612x612" alt="">
+		    <p>your account was hacked</p>
+		</body>
+		</html>
+		
+pgm:
+
+		<!DOCTYPE html>
+		<html lang="en">
+		<head>
+		    <meta charset="UTF-8">
+		    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		    <title>murugan supermarket</title>
+		</head>
+		<body>
+		    <h1>murugan kadai</h1>
+		    <a href="http://ta.wikipedia.org">home</a>
+		    <a href="http://ta.wikipedia.org">articles</a>
+		    <a href="http://ta.wikipedia.org">about us</a>
+		    <a href="http://ta.wikipedia.org">contact us</a>
+		    <br>
+		    <a href="http://google.co.in"><img src="https://cdn.pixabay.com/photo/2013/04/04/12/34/mountains-100367_960_720.jpg" alt=""> </a>
+		    <p>"this is my shop</p>
+		    <br>
+		    <br>
+		    <br>
+		    <br>
+		    <p>copyright&copy;2017 murugan kadai<sup>TM</sup></p>
+		    <p>Blood group:A<sub>1</sub></p>
+		</body>
+		</html>
+pgm:
+
+		<!DOCTYPE html>
+		<html lang="en">
+		<head>
+		    <meta charset="UTF-8">
+		    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		    <title>Hacker</title>
+		</head>
+		<body>
+		    <h1>Hacking King</h1>
+		    <a href="http://ta.wikipedia.org"target="_blank">about us</a>
+		    <br>
+		    <img src="https://media.istockphoto.com/photos/yellow-background-with-black-grunge-danger-sign-picture-id1163744382?s=612x612" alt="">
+		    <p>your account was hacked</p>
+		</body>
+		</html>
+
+
